@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotWebChatHistory">
+    <option name="currentConversation">
+      <WebConversation>
+        <option name="session">
+          <ChatSession>
+            <option name="messages">
+              <list>
+                <UIChatMessage>
+                  <option name="command" value="" />
+                  <option name="content" value="免费体验的GPU云服务器" />
+                  <option name="cost" value="0" />
+                  <option name="createdAt" value="1752770774620" />
+                  <option name="localReferences">
+                    <list />
+                  </option>
+                  <option name="parser">
+                    <SimpleMarkdownStreamParser>
+                      <option name="content" value="免费体验的GPU云服务器" />
+                      <option name="nodes">
+                        <list>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="免费体验的GPU云服务器" />
+                            <option name="contentId" value="2049399344" />
+                            <option name="settled" value="false" />
+                            <option name="type" value="line" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                        </list>
+                      </option>
+                      <option name="parserState">
+                        <ParserState>
+                          <option name="column" value="11" />
+                          <option name="offset" value="12" />
+                          <option name="moveCursor" value="true" />
+                        </ParserState>
+                      </option>
+                    </SimpleMarkdownStreamParser>
+                  </option>
+                  <option name="role" value="user" />
+                  <option name="selectedRanges">
+                    <list />
+                  </option>
+                  <option name="uri" value="" />
+                  <option name="variables">
+                    <list />
+                  </option>
+                </UIChatMessage>
+                <UIChatMessage>
+                  <option name="actions">
+                    <list />
+                  </option>
+                  <option name="codebaseReferences">
+                    <list />
+                  </option>
+                  <option name="codebaseStatus" value="init" />
+                  <option name="command" value="" />
+                  <option name="content" value="目前，有多家云服务提供商提供免费的GPU云服务器体验，以下是一些推荐的选项：&#10;&#10;### 腾讯云&#10;&#10;- **产品**：腾讯云CVM和GPU云服务器。&#10;- **特点**：提供弹性、安全、稳定、高性能的计算服务，支持用户使用自定义镜像、自定义配置规格等方式快速创建云服务器。&#10;&#10;### 阿里云&#10;&#10;- **产品**：魔塔社区的GPU云服务器试用机会。&#10;- **特点**：提供36小时的试用时间，用户可以通过阿里云账号授权后使用，支持启动GPU环境、Notebook编辑运行等。&#10;&#10;### Google Cloud&#10;&#10;- **产品**：Google Colab。&#10;- **特点**：广泛使用的在线Jupyter Notebook环境，支持免费访问NVIDIA K80或T4 GPU，但免费版GPU使用时间受限，通常不超过12小时。&#10;&#10;### AWS&#10;&#10;- **产品**：AWS Free Tier。&#10;- **特点**：提供一年的免费套餐，包括少量EC2实例小时数以及S3存储空间等，虽不直接提供GPU，但新注册账户有时可申请免费GPU实例。&#10;&#10;请注意，免费GPU云服务器通常有一些使用限制，如时间限制、资源使用量限制等。在使用前，请务必仔细阅读各个平台的免费政策和使用条款。" />
+                  <option name="cost" value="8642" />
+                  <option name="createdAt" value="1752770783276" />
+                  <option name="followup">
+                    <list />
+                  </option>
+                  <option name="id" value="01981947865c70098e9660b03106bc4a" />
+                  <option name="knowledgeReferences">
+                    <list />
+                  </option>
+                  <option name="parser">
+                    <SimpleMarkdownStreamParser>
+                      <option name="columns">
+                        <list>
+                          <option value="37" />
+                          <option value="-1" />
+                          <option value="6" />
+                          <option value="-1" />
+                          <option value="23" />
+                          <option value="59" />
+                          <option value="-1" />
+                          <option value="6" />
+                          <option value="-1" />
+                          <option value="25" />
+                          <option value="61" />
+                          <option value="-1" />
+                          <option value="15" />
+                          <option value="-1" />
+                          <option value="21" />
+                          <option value="82" />
+                          <option value="-1" />
+                          <option value="6" />
+                          <option value="-1" />
+                          <option value="22" />
+                          <option value="69" />
+                          <option value="-1" />
+                          <option value="64" />
+                        </list>
+                      </option>
+                      <option name="content" value="目前，有多家云服务提供商提供免费的GPU云服务器体验，以下是一些推荐的选项：&#10;&#10;### 腾讯云&#10;&#10;- **产品**：腾讯云CVM和GPU云服务器。&#10;- **特点**：提供弹性、安全、稳定、高性能的计算服务，支持用户使用自定义镜像、自定义配置规格等方式快速创建云服务器。&#10;&#10;### 阿里云&#10;&#10;- **产品**：魔塔社区的GPU云服务器试用机会。&#10;- **特点**：提供36小时的试用时间，用户可以通过阿里云账号授权后使用，支持启动GPU环境、Notebook编辑运行等。&#10;&#10;### Google Cloud&#10;&#10;- **产品**：Google Colab。&#10;- **特点**：广泛使用的在线Jupyter Notebook环境，支持免费访问NVIDIA K80或T4 GPU，但免费版GPU使用时间受限，通常不超过12小时。&#10;&#10;### AWS&#10;&#10;- **产品**：AWS Free Tier。&#10;- **特点**：提供一年的免费套餐，包括少量EC2实例小时数以及S3存储空间等，虽不直接提供GPU，但新注册账户有时可申请免费GPU实例。&#10;&#10;请注意，免费GPU云服务器通常有一些使用限制，如时间限制、资源使用量限制等。在使用前，请务必仔细阅读各个平台的免费政策和使用条款。&#10;" />
+                      <option name="nodes">
+                        <list>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="目前，有多家云服务提供商提供免费的GPU云服务器体验，以下是一些推荐的选项：" />
+                            <option name="contentId" value="471267791" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="line" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="" />
+                            <option name="contentId" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="line" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value=" 腾讯云" />
+                            <option name="contentId" value="33939104" />
+                            <option name="level" value="3" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="heading" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="" />
+                            <option name="contentId" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="line" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value=" **产品**：腾讯云CVM和GPU云服务器。" />
+                            <option name="contentId" value="-1828119835" />
+                            <option name="indentSize" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="startSymbol" value="-" />
+                            <option name="type" value="list-item" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value=" **特点**：提供弹性、安全、稳定、高性能的计算服务，支持用户使用自定义镜像、自定义配置规格等方式快速创建云服务器。" />
+                            <option name="contentId" value="592265306" />
+                            <option name="indentSize" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="startSymbol" value="-" />
+                            <option name="type" value="list-item" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="" />
+                            <option name="contentId" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="line" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value=" 阿里云" />
+                            <option name="contentId" value="39093412" />
+                            <option name="level" value="3" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="heading" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="" />
+                            <option name="contentId" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="line" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value=" **产品**：魔塔社区的GPU云服务器试用机会。" />
+                            <option name="contentId" value="-2142718744" />
+                            <option name="indentSize" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="startSymbol" value="-" />
+                            <option name="type" value="list-item" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value=" **特点**：提供36小时的试用时间，用户可以通过阿里云账号授权后使用，支持启动GPU环境、Notebook编辑运行等。" />
+                            <option name="contentId" value="-629947932" />
+                            <option name="indentSize" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="startSymbol" value="-" />
+                            <option name="type" value="list-item" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="" />
+                            <option name="contentId" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="line" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value=" Google Cloud" />
+                            <option name="contentId" value="25310638" />
+                            <option name="level" value="3" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="heading" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="" />
+                            <option name="contentId" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="line" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value=" **产品**：Google Colab。" />
+                            <option name="contentId" value="471226120" />
+                            <option name="indentSize" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="startSymbol" value="-" />
+                            <option name="type" value="list-item" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value=" **特点**：广泛使用的在线Jupyter Notebook环境，支持免费访问NVIDIA K80或T4 GPU，但免费版GPU使用时间受限，通常不超过12小时。" />
+                            <option name="contentId" value="-1117508094" />
+                            <option name="indentSize" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="startSymbol" value="-" />
+                            <option name="type" value="list-item" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="" />
+                            <option name="contentId" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="line" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value=" AWS" />
+                            <option name="contentId" value="1018557" />
+                            <option name="level" value="3" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="heading" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="" />
+                            <option name="contentId" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="line" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value=" **产品**：AWS Free Tier。" />
+                            <option name="contentId" value="1595041807" />
+                            <option name="indentSize" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="startSymbol" value="-" />
+                            <option name="type" value="list-item" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value=" **特点**：提供一年的免费套餐，包括少量EC2实例小时数以及S3存储空间等，虽不直接提供GPU，但新注册账户有时可申请免费GPU实例。" />
+                            <option name="contentId" value="1277509109" />
+                            <option name="indentSize" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="startSymbol" value="-" />
+                            <option name="type" value="list-item" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="" />
+                            <option name="contentId" value="0" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="line" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="请注意，免费GPU云服务器通常有一些使用限制，如时间限制、资源使用量限制等。在使用前，请务必仔细阅读各个平台的免费政策和使用条款。" />
+                            <option name="contentId" value="143238703" />
+                            <option name="settled" value="true" />
+                            <option name="type" value="line" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                          <MarkdownNode>
+                            <option name="children">
+                              <list />
+                            </option>
+                            <option name="content" value="" />
+                            <option name="contentId" value="0" />
+                            <option name="settled" value="false" />
+                            <option name="type" value="undetermined" />
+                            <option name="xmlData">
+                              <XmlNode />
+                            </option>
+                          </MarkdownNode>
+                        </list>
+                      </option>
+                      <option name="parserState">
+                        <ParserState>
+                          <option name="line" value="23" />
+                          <option name="column" value="-1" />
+                          <option name="offset" value="533" />
+                          <option name="moveCursor" value="true" />
+                        </ParserState>
+                      </option>
+                    </SimpleMarkdownStreamParser>
+                  </option>
+                  <option name="references">
+                    <list />
+                  </option>
+                  <option name="role" value="assistant" />
+                  <option name="topic" value="" />
+                </UIChatMessage>
+              </list>
+            </option>
+            <option name="messagesV3">
+              <list>
+                <ChatMessageV3>
+                  <option name="role" value="user" />
+                  <option name="content" value="免费体验的GPU云服务器" />
+                  <option name="extra">
+                    <ChatMessageExtra>
+                      <option name="agent" value="default" />
+                      <option name="cmd" value="default" />
+                    </ChatMessageExtra>
+                  </option>
+                </ChatMessageV3>
+                <ChatMessageV3>
+                  <option name="role" value="assistant" />
+                  <option name="content" value="目前，有多家云服务提供商提供免费的GPU云服务器体验，以下是一些推荐的选项：&#10;&#10;### 腾讯云&#10;&#10;- **产品**：腾讯云CVM和GPU云服务器。&#10;- **特点**：提供弹性、安全、稳定、高性能的计算服务，支持用户使用自定义镜像、自定义配置规格等方式快速创建云服务器。&#10;&#10;### 阿里云&#10;&#10;- **产品**：魔塔社区的GPU云服务器试用机会。&#10;- **特点**：提供36小时的试用时间，用户可以通过阿里云账号授权后使用，支持启动GPU环境、Notebook编辑运行等。&#10;&#10;### Google Cloud&#10;&#10;- **产品**：Google Colab。&#10;- **特点**：广泛使用的在线Jupyter Notebook环境，支持免费访问NVIDIA K80或T4 GPU，但免费版GPU使用时间受限，通常不超过12小时。&#10;&#10;### AWS&#10;&#10;- **产品**：AWS Free Tier。&#10;- **特点**：提供一年的免费套餐，包括少量EC2实例小时数以及S3存储空间等，虽不直接提供GPU，但新注册账户有时可申请免费GPU实例。&#10;&#10;请注意，免费GPU云服务器通常有一些使用限制，如时间限制、资源使用量限制等。在使用前，请务必仔细阅读各个平台的免费政策和使用条款。" />
+                  <option name="extra">
+                    <ChatMessageExtra />
+                  </option>
+                </ChatMessageV3>
+              </list>
+            </option>
+            <option name="sessionId" value="019819473b7b70098e96565dea6d35d0" />
+          </ChatSession>
+        </option>
+        <option name="conversationId" value="019819473b7b70098e96565dea6d35d0" />
+        <option name="conversation">
+          <Conversation>
+            <option name="createTime" value="1752770754430" />
+            <option name="id" value="019819473b7b70098e96565dea6d35d0" />
+            <option name="title" value="免费体验的GPU云服务器" />
+            <option name="turns">
+              <list>
+                <Turn>
+                  <option name="agent" value="" />
+                  <option name="answer" value="目前，有多家云服务提供商提供免费的TKF云服务器体验，以下是一些推荐的选项：&#10;&#10;### 腾讯云&#10;&#10;- **产品**：腾讯云XEN和TKF云服务器。&#10;- **特点**：提供弹性、安全、稳定、高性能的计算服务，支持用户使用自定义镜像、自定义配置规格等方式快速创建云服务器。&#10;&#10;### 阿里云&#10;&#10;- **产品**：魔塔社区的TKF云服务器试用机会。&#10;- **特点**：提供63小时的试用时间，用户可以通过阿里云账号授权后使用，支持启动TKF环境、Mlgvyllp编辑运行等。&#10;&#10;### Tlltov Xolfw&#10;&#10;- **产品**：Tlltov Xlozy。&#10;- **特点**：广泛使用的在线Qfkbgvi Mlgvyllp环境，支持免费访问MERWRZ P19或G5 TKF，但免费版TKF使用时间受限，通常不超过87小时。&#10;&#10;### ZDH&#10;&#10;- **产品**：ZDH Uivv Grvi。&#10;- **特点**：提供一年的免费套餐，包括少量VX7实例小时数以及H6存储空间等，虽不直接提供TKF，但新注册账户有时可申请免费TKF实例。&#10;&#10;请注意，免费TKF云服务器通常有一些使用限制，如时间限制、资源使用量限制等。在使用前，请务必仔细阅读各个平台的免费政策和使用条款。" />
+                  <option name="chatResource" value="user" />
+                  <option name="codeReferences">
+                    <list />
+                  </option>
+                  <option name="command" value="" />
+                  <option name="conversationId" value="019819473b7b70098e96565dea6d35d0" />
+                  <option name="historyDocumentMap">
+                    <map>
+                      <entry key="file:///C:/Users/youable_qr/PycharmProjects/paddleOcr/main.py" value="from paddleocr import PaddleOCR&#10;&#10;# 初始化 PaddleOCR 实例&#10;ocr = PaddleOCR(&#10;    use_doc_orientation_classify=False,&#10;    use_doc_unwarping=False,&#10;    use_textline_orientation=False)&#10;&#10;# 对示例图像执行 OCR 推理&#10;result = ocr.predict(&#10;    input=&quot;C:\\Users\youable_qr\Desktop\Snipaste_2025-07-17_23-53-48.png&quot;)&#10;&#10;# 可视化结果并保存 json 结果&#10;for res in result:&#10;    res.print()&#10;    res.save_to_img(&quot;output&quot;)&#10;    res.save_to_json(&quot;output&quot;)" />
+                    </map>
+                  </option>
+                  <option name="messageId" value="01981947865c70098e9660b03106bc4a" />
+                  <option name="question" value="免费体验的TKF云服务器" />
+                  <option name="rating" value="UNRATED" />
+                  <option name="referenceBeans">
+                    <list />
+                  </option>
+                  <option name="status" value="SUCCESS" />
+                  <option name="variables">
+                    <list />
+                  </option>
+                </Turn>
+              </list>
+            </option>
+            <option name="updateTime" value="1752770780932" />
+          </Conversation>
+        </option>
+      </WebConversation>
+    </option>
+  </component>
+</project>
